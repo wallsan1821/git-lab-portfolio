@@ -9,7 +9,3 @@ Ganhar autonomia e fluência prática em Git e GitHub por meio de exercícios pe
 ## Status
 
 Laboratório em andamento.
-
-## Observação temporária
-
-Esta linha foi adicionada só para testar git revert.
