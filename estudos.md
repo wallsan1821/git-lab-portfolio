@@ -7,3 +7,4 @@
 - Merge
 - Pull Request
 - Push e pull
+- Revert e reset
