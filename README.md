@@ -6,3 +6,6 @@ Laboratório prático para treinar Git e GitHub antes dos projetos de portfólio
 
 Ganhar autonomia e fluência prática em Git e GitHub por meio de exercícios pequenos, commits organizados e situações reais de desenvolvimento.
 
+## Status
+
+Laboratório em andamento.
